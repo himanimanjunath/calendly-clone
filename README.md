@@ -1,2 +1,1 @@
 # Calendly Clone 
-I want to gain experience in full-stack development! Most of my previous programming experience has stemmed from front-end projects, mainly using HTML and CSS. Now, my eyes are set on a neighboring realm: full-stack development. The idea of creating a holistic, end-to-end product with creative control over both the frontend and backend deeply motivates me.
